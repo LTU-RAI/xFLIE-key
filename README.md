@@ -9,7 +9,7 @@ Leveraging Actionable Hierarchical Scene Representations for Autonomous Semantic
 > TBD
 
 **Results**
-> [LSG_SIM_concept](https://github.com/user-attachments/assets/c46dd632-375c-4ed3-be40-8cc4c32d81cd)
+> ![LSG_SIM_concept](https://github.com/user-attachments/assets/c46dd632-375c-4ed3-be40-8cc4c32d81cd)
 
 
 **Correspnding author:**
