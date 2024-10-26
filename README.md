@@ -1,15 +1,9 @@
-# xFLIE-key
-Leveraging Actionable Hierarchical Scene Representations for Autonomous Semantic-Aware Inspection Missions
-> Repository for the associated article. This code will be released open-source once accepted.
+# xFLIE: Leveraging Actionable Hierarchical Scene Representations for Autonomous Semantic-Aware Inspection Missions
 
-**Paper**
-> TBD
+## Abstract
+This article presents **xFLIE**, a fully integrated 3D hierarchical scene graph based autonomous inspection architecture. Specifically, we present a tightly-coupled solution of incremental 3D _Layered Semantic Graphs_ (LSG) construction and real-time exploitation by a multi-modal autonomy, _FLIE: First-Look based Inspection and Exploration_ planner, to address the task of inspection of apriori unknown semantic targets of interest in unknown environments. Compared to existing inspection planning approaches that construct and maintain an \textit{as-is} volumetric environment representation, this work aims to address the challenge of maintaining, in addition to or as an alternative to volumetric models, an intuitive scene representation during large-scale missions. Through its contributions, the proposed architecture aims to provide a high-level multi-tiered abstract environment representation. By providing a tractable foundation for rapid and informed decision-making capable of enhancing inspection planning through scene understanding, _what should it inspect ?_, and reasoning, _why should it inspect ?_, we present a first-of-its kind solution towards inspection of apriori unknown targets of interest in unknown environments. The proposed LSG framework is designed to leverage the concept of _nesting_ lower local graphs, at multiple layers of abstraction, with the abstract concepts grounded on the functionality of the integrated FLIE planner. Through intuitive scene representation, the proposed architecture offers an easily digestible environment model for human operators which helps to improve situational awareness and their understanding of the operating environment. We highlight the use-case benefits of hierarchical and semantic path-planning capability over LSG to address queries, by the integrated planner as well as the human operator. The validity of the proposed architecture is evaluated in large-scale simulated outdoor urban scenarios as well as being deployed onboard a Boston Dynamics Spot quadruped robot for outdoor field experiments. The architecture is open-sourced to allow the robotics community to explore and expand on this approach.
 
-**Video**
-> TBD
 
-**Results**
-> TBD
 
 
 **Correspnding author:**
